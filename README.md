@@ -21,7 +21,7 @@ I am a web developer, and systems architect specializing in building robust, pro
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,python,rust,solidity,figma,linux,flutter" />
+    <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,python,rust,solidity,figma,linux,flutter,tailwind,ts," />
   </a>
 </p>
 
