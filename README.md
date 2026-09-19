@@ -126,24 +126,7 @@ Key areas:
 * Responsive UI
 * State and task status management
 
----
 
-## 📚 Teaching
-
-### Programming Instructor — Sepanta Mehr
-
-Alongside software development, I have experience teaching programming and web development.
-
-Areas I teach:
-
-* Python fundamentals
-* Algorithms & problem solving
-* HTML & CSS
-* JavaScript
-* Web development fundamentals
-* Project-based development
-
----
 
 ## 🧠 Engineering Interests
 
@@ -178,14 +161,7 @@ I'm particularly interested in:
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baadeh&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baadeh&layout=compact&hide_border=true" height="165" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
