@@ -64,23 +64,15 @@ My focus is on building software that is:
 * User-focused
 * Technically well-structured
 
-## 🧠 Engineering Interests
+## 📊 GitHub Stats
 
-```text
-Front-End Architecture
-        ↓
-React & Next.js
-        ↓
-TypeScript
-        ↓
-Scalable UI Systems
-        ↓
-API Integration
-        ↓
-Performance & UX
-        ↓
-Technical Leadership
-```
+<p align="center">
+
+
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=baadeh&show_icons=true&theme=radical)
+---
+</p>
 
 I'm particularly interested in:
 
