@@ -54,26 +54,6 @@ Currently, I work mainly with **React, TypeScript, Next.js, and modern web techn
 
 At AMA, I work across the entire development process:
 
-**Idea → Architecture → UI/UX → Development → API Integration → Deployment**
-
-My focus is on building software that is:
-
-* Scalable
-* Maintainable
-* Performant
-* User-focused
-* Technically well-structured
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-
-
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=baadeh)
----
-</p>
-
 I'm particularly interested in:
 
 * Front-End Architecture
