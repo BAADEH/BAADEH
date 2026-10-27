@@ -70,7 +70,7 @@ My focus is on building software that is:
 
 
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=baadeh&show_icons=true&theme=radical)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=baadeh)
 ---
 </p>
 
